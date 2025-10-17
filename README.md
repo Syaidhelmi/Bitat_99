@@ -1,3 +1,6 @@
+cp .env.example .env
+pnpm i
+pnpm dev
 ## This template provides a minimal setup to get Next.js working with MiniKit
 
 ## Setup
